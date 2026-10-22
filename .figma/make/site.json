@@ -1,0 +1,10 @@
+{
+  "description": "Easily search, compare, and book hotels worldwide with real-time availability and best price guarantees for a seamless travel planning experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
